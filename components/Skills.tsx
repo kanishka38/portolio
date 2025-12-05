@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion";
 import {
-  SiJava,
   SiKotlin,
   SiPython,
   SiTypescript,
@@ -14,7 +13,6 @@ import {
   SiMysql,
   SiMongodb,
   SiRedis,
-  SiAmazonaws,
   SiDocker,
   SiFlutter,
   SiAndroid,
@@ -24,7 +22,7 @@ const skillCategories = [
   {
     title: "Programming Languages",
     skills: [
-      { name: "Java", icon: SiJava, color: "text-orange-600" },
+      { name: "Java", icon: null, color: "text-orange-600" },
       { name: "Kotlin", icon: SiKotlin, color: "text-purple-600" },
       { name: "Python", icon: SiPython, color: "text-yellow-600" },
       { name: "TypeScript", icon: SiTypescript, color: "text-purple-600" },
@@ -60,7 +58,7 @@ const skillCategories = [
   {
     title: "Cloud & Tools",
     skills: [
-      { name: "AWS", icon: SiAmazonaws, color: "text-orange-600" },
+      { name: "AWS", icon: null, color: "text-orange-600" },
       { name: "Docker", icon: SiDocker, color: "text-purple-600" },
       { name: "DigitalOcean", icon: null, color: "text-purple-500" },
       { name: "Git", icon: null, color: "text-orange-600" },

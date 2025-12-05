@@ -32,14 +32,14 @@ export default function About() {
             className="space-y-6"
           >
             <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
-              I'm a passionate Software Engineer with expertise in building scalable web
+              I&apos;m a passionate Software Engineer with expertise in building scalable web
               applications. Currently working as a Software Engineer II at Category, where I
               design and implement complex systems using modern technologies.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
               My experience spans across full-stack development, from creating intuitive
               frontends with React and Next.js to building robust backends with Node.js and
-              Python. I'm always eager to learn new technologies and take on challenging projects.
+              Python. I&apos;m always eager to learn new technologies and take on challenging projects.
             </p>
           </motion.div>
 
