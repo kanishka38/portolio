@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "title": "Store Monitoring System",
+      "description": "Built a restaurant activity monitoring system using Python, FastAPI, and MySQL. Processed and ingested CSV data into a relational database to track store uptime/downtime against defined business hours.",
+      "features": [
+        "Implemented asynchronous report generation with FastAPI's background tasks",
+        "Exporting results in CSV format",
+        "Designed API endpoints to monitor report generation status via polling mechanisms",
+        "Deployed with Uvicorn for efficient, lightweight backend service"
+      ],
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "MySQL",
+        "Uvicorn",
+        "Async Programming",
+        "CSV Parsing"
+      ],
+      "icon": "FaServer",
+      "link": "",
+      "github": ""
+    }
+  ]
+}
