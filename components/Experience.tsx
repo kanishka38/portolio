@@ -6,7 +6,7 @@ import { FaBriefcase, FaCalendarAlt, FaMapMarkerAlt } from "react-icons/fa";
 const experiences = [
   {
     title: "Software Engineer II",
-    company: "Category (Catalogus)",
+    company: "Catalogus",
     location: "Gurgaon, Haryana",
     period: "February 2025 - Present",
     achievements: [

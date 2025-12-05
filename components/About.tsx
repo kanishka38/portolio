@@ -33,7 +33,7 @@ export default function About() {
           >
             <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
               I&apos;m a passionate Software Engineer with expertise in building scalable web
-              applications. Currently working as a Software Engineer II at Category, where I
+              applications. Currently working as a Software Engineer II at Catalogus, where I
               design and implement complex systems using modern technologies.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
