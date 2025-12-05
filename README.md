@@ -51,3 +51,4 @@ For detailed instructions, see [LINKEDIN_DATA_GUIDE.md](./LINKEDIN_DATA_GUIDE.md
 
 This portfolio can be easily deployed on Vercel, Netlify, or any other platform that supports Next.js.
 # portolio
+# portolio
